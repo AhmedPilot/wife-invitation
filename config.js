@@ -13,7 +13,7 @@ export const CONFIG = {
   venue: 'منزلهم العامر بدمبو',
   address: '',
   mapsUrl: '', // No map link for this invitation
-  siteUrl: 'https://wife-invitation.pages.dev/', // Public address of the site (used by the Share button)
+  siteUrl: 'https://wife-invitation.ahmedkeejab7.workers.dev/', // Public address of the site (used by the Share button)
   musicFile: 'assets/wedding-background.wav',
   verse:
     '﴿ وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ﴾'
